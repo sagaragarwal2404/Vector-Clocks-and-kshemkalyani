@@ -1,0 +1,5 @@
+1. Input filename should be "inp-params.txt" for both the programs
+2. Logs for "VC-cs20mtech11005.cpp" will be saved in "output1.txt"
+3. Logs for "SK-cs20mtech11005.cpp" will be saved in "output2.txt"
+4.(IMP) If we try to re-run the same program again, sometimes it will give binding error so, int that case we have to change the port number and the    execute the program.
+5. After re-run of the program the logs in previous output file will get updated.
